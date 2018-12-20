@@ -1,0 +1,6 @@
+pandas
+elasticsearch
+numpy
+jupyter
+seaborn
+
